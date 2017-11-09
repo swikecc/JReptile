@@ -30,6 +30,7 @@ bin/
 # IDEA IDE
 .idea/
 out/
+target/
 *.iml
 
 # test directory
