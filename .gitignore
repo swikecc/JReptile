@@ -34,5 +34,3 @@ out/
 
 # test directory
 src/test/
-pom.xml
-src/main/
